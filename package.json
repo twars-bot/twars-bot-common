@@ -1,0 +1,8 @@
+{
+  "name": "twars-bot-common",
+  "version": "1.0.0",
+  "author": "pl33x",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
