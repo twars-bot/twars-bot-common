@@ -1,1 +1,1 @@
-# twars-bot-license-api
+# twars-bot-common
