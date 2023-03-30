@@ -4,5 +4,8 @@
   "author": "pl33x",
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1"
   }
 }
